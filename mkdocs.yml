@@ -16,3 +16,4 @@ plugins:
       post_url_date_format: yyyy
 
 repo_url: https://github.com/vtfk/docsVTFK
+repo_name: vtfk/docsVTFK
