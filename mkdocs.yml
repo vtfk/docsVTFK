@@ -1,6 +1,8 @@
 site_name: docsVTFK
 
 theme:
+  name: readthedocs
+  language: nb
   logo: images/vtfk.png
   favicon: images/vtfk.png
 
