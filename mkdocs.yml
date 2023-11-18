@@ -1,1 +1,15 @@
-site_name: My Docs
+site_name: docsVTFK
+
+theme:
+  name: material
+  language: nb
+  logo: images/vtfk.png
+  favicon: images/vtfk.png
+  features:
+    - navigation.tabs
+
+plugins: 
+  - search
+  - blog:
+      post_date_format: medium
+      post_url_date_format: yyyy
