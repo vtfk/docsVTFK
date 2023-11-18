@@ -1,4 +1,4 @@
-name: Publish docsVTFK
+name: Publish to docsVTFK
 on:
   push:
     branches:
@@ -26,3 +26,4 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material 
       - run: mkdocs gh-deploy --force
+    
