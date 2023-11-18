@@ -1,3 +1,3 @@
-# Velkommen til dokumentasjonen
+# Om dokumemntasjonen
 
-Her kan du lese om hva som skjer i fylkeskommunen......
+Her kan det stå noe om dokumentasjonen. En slags landingsside for dokumentasjonen. 🤩🎉
