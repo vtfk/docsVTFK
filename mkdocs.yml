@@ -5,9 +5,13 @@ theme:
   language: nb
   logo: images/vtfk.png
   favicon: images/vtfk.png
+  features:
+    - navigation.tabs
 
 plugins: 
   - search
   - blog:
       post_date_format: medium
       post_url_date_format: yyyy
+
+repo_url: https://github.com/vtfk/docsVTFK
