@@ -7,6 +7,7 @@ theme:
   favicon: images/vtfk.png
   features:
     - navigation.tabs
+    - search.suggest
 
 plugins: 
   - search
