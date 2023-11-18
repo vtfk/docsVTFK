@@ -1,9 +1,17 @@
-# Hjem
+# Welcome to MkDocs
 
-**docsVTFK - En portal for teknisk dokumentasjon for Vestfold og Telemark fylkeskommune**
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-**Velkommen til docsVTFK** Her vil du finne informasjon om hvordan vi jobber med å utvikle nye digitale tjenester og få et innblikk i noen av tingene vi tester ut på utviklingsavdelingen. Alt innhold er skrevet av og for mennesker 🤩
+## Commands
 
-Hvem er vi? Vi er en sammensatt gjeng som jobber med å lage gode digitale tjenester for *hele* fylkeskommunen. Vi jobber med kode, design, arkitektur, brukeropplevelse, testing, drift, sikkerhet og mye mer. ...og vi liker å ha det gøy på jobb!
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
 
-Vi er opptatt av å dele kunnskap og erfaringer med hverandre og med andre. Vi er opptatt av å gjøre hverandre gode og vi er opptatt av å gjøre en forskjell for innbyggerne i fylkeskommunen.....
+## Project layout
+
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
