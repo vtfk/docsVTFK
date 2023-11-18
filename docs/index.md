@@ -1,4 +1,4 @@
-# Hjem
+# Om docsVTFK
 
 **docsVTFK - En portal for teknisk dokumentasjon for Vestfold og Telemark fylkeskommune**
 
