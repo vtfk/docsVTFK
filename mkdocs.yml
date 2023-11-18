@@ -5,6 +5,8 @@ theme:
   language: nb
   logo: images/vtfk.png
   favicon: images/vtfk.png
+  features:
+    - navigation.tabs
 
 plugins: 
   - search
