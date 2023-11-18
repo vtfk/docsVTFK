@@ -1,8 +1,6 @@
 site_name: docsVTFK
 
 theme:
-  name: material
-  language: nb
   logo: images/vtfk.png
   favicon: images/vtfk.png
 
